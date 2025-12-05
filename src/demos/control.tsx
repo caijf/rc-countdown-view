@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import CountDown, { ActionType } from 'rc-countdown-view';
 
 function Demo() {
-  const actionRef = useRef<ActionType>();
+  const actionRef = useRef<ActionType>(undefined);
 
   return (
     <div>

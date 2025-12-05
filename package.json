@@ -1,6 +1,6 @@
 {
   "name": "rc-countdown-view",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "A simple countdown react component.",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",

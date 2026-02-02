@@ -7,7 +7,7 @@ const publicPath = isDev ? '/' : '/rc-countdown-view/';
 export default defineConfig({
   themeConfig: {
     name,
-    logo: 'https://www.caijinfeng.com/logo.png',
+    logo: 'https://www.caijf.top/logo.png',
     nav: [],
     prefersColor: {
       default: 'light',
@@ -15,7 +15,7 @@ export default defineConfig({
     },
     footer: 'caijf | Copyright © 2020-present'
   },
-  favicons: ['https://www.caijinfeng.com/favicon.ico'],
+  favicons: ['https://www.caijf.top/favicon.ico'],
   base: publicPath,
   publicPath,
   outputPath: 'docs-dist',
